@@ -1,0 +1,6 @@
+name: Skygridchallenges
+version: ${project.version}
+main: me.physicsprodigy.skygridchallenges.Skygridchallenges
+api-version: 1.13
+authors: [PhysicsProdigy]
+description: This plugin will generate challenges in the said world
